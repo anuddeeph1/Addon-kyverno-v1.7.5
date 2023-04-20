@@ -25,6 +25,3 @@ Kyverno is a policy engine designed for Kubernetes. It can validate, mutate, and
 5. If addon is to be added to a running cluster, create a environemnt with namespace "**kyverno**" and choose this environment while deploying the application
 6. Verify that the application is running.
 
-
-### Who do I talk to?
-For issues, contact support@nirmata.com
